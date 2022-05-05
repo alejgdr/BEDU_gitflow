@@ -1,0 +1,2 @@
+Este repositorio es solo para tener un ejemplo de cómo sería una estrategia de gitflow para desarrollo WEB
+
